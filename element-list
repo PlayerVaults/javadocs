@@ -1,0 +1,10 @@
+dev.kitteh.playervaults.api
+dev.kitteh.playervaults.api.config
+dev.kitteh.playervaults.api.config.annotation
+dev.kitteh.playervaults.api.exception
+dev.kitteh.playervaults.api.grant
+dev.kitteh.playervaults.api.grant.limitation
+dev.kitteh.playervaults.api.property
+dev.kitteh.playervaults.api.storage
+dev.kitteh.playervaults.api.util
+dev.kitteh.playervaults.api.vault
